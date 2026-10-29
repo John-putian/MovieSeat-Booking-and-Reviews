@@ -1,0 +1,162 @@
+[
+  {
+    "id": "MOV-001",
+    "title": "Beyond the Stars",
+    "genre": "Sci-Fi",
+    "duration": "2h 12m",
+    "rating": 8.7,
+    "price": 280,
+    "synopsis": "A young engineer joins a dangerous mission beyond the solar system and discovers a signal that could change humanity forever.",
+    "showtimes": [
+      "10:30 AM",
+      "1:45 PM",
+      "5:00 PM",
+      "8:15 PM"
+    ],
+    "colors": [
+      "#312E81",
+      "#7C3AED"
+    ],
+    "image": "assets/images/MOV-001.png"
+  },
+  {
+    "id": "MOV-002",
+    "title": "Manila After Rain",
+    "genre": "Drama",
+    "duration": "1h 48m",
+    "rating": 8.2,
+    "price": 250,
+    "synopsis": "Two strangers cross paths during a rainy evening in Manila and find the courage to begin again.",
+    "showtimes": [
+      "11:15 AM",
+      "2:30 PM",
+      "6:00 PM",
+      "9:10 PM"
+    ],
+    "colors": [
+      "#0F766E",
+      "#2563EB"
+    ],
+    "image": "assets/images/MOV-002.png"
+  },
+  {
+    "id": "MOV-003",
+    "title": "The Last Signal",
+    "genre": "Thriller",
+    "duration": "1h 56m",
+    "rating": 7.9,
+    "price": 260,
+    "synopsis": "A radio operator receives a mysterious emergency broadcast and races to uncover its source before midnight.",
+    "showtimes": [
+      "12:00 PM",
+      "3:20 PM",
+      "6:40 PM",
+      "9:30 PM"
+    ],
+    "colors": [
+      "#991B1B",
+      "#EA580C"
+    ],
+    "image": "assets/images/MOV-003.png"
+  },
+  {
+    "id": "MOV-004",
+    "title": "Barkada Weekend",
+    "genre": "Comedy",
+    "duration": "1h 35m",
+    "rating": 8.0,
+    "price": 230,
+    "synopsis": "A simple beach trip becomes an unforgettable comedy of wrong turns, lost luggage, and lasting friendship.",
+    "showtimes": [
+      "10:00 AM",
+      "1:00 PM",
+      "4:10 PM",
+      "7:20 PM"
+    ],
+    "colors": [
+      "#BE123C",
+      "#F59E0B"
+    ],
+    "image": "assets/images/MOV-004.png"
+  },
+  {
+    "id": "MOV-005",
+    "title": "Night Market Blues",
+    "genre": "Musical",
+    "duration": "1h 42m",
+    "rating": 8.4,
+    "price": 250,
+    "synopsis": "A street food vendor and a busker fall in love over one unforgettable night at Manila's busiest night market.",
+    "showtimes": [
+      "11:45 AM",
+      "3:00 PM",
+      "6:20 PM",
+      "9:45 PM"
+    ],
+    "colors": [
+      "#14532D",
+      "#16A34A"
+    ],
+    "image": "assets/images/MOV-005.png"
+  },
+  {
+    "id": "MOV-006",
+    "title": "Shadows of Intramuros",
+    "genre": "Horror",
+    "duration": "1h 50m",
+    "rating": 7.6,
+    "price": 260,
+    "synopsis": "A history student's overnight project inside the old walled city wakes something that has waited four hundred years.",
+    "showtimes": [
+      "1:30 PM",
+      "4:45 PM",
+      "8:00 PM",
+      "11:00 PM"
+    ],
+    "colors": [
+      "#1F2937",
+      "#4B5563"
+    ],
+    "image": "assets/images/MOV-006.png"
+  },
+  {
+    "id": "MOV-007",
+    "title": "Pixel Heroes",
+    "genre": "Animation",
+    "duration": "1h 38m",
+    "rating": 8.5,
+    "price": 220,
+    "synopsis": "Three video-game sidekicks escape their arcade cabinet to save their player from a glitch that is erasing the city.",
+    "showtimes": [
+      "9:30 AM",
+      "12:15 PM",
+      "2:50 PM",
+      "5:30 PM"
+    ],
+    "colors": [
+      "#0369A1",
+      "#22D3EE"
+    ],
+    "image": "assets/images/MOV-007.png"
+  },
+  {
+    "id": "MOV-008",
+    "title": "Laban ng Puso",
+    "genre": "Romance",
+    "duration": "2h 02m",
+    "rating": 7.8,
+    "price": 240,
+    "synopsis": "A boxer from Cebu and a sports doctor from Manila fight for the title, and for each other, in the biggest bout of their lives.",
+    "showtimes": [
+      "12:30 PM",
+      "3:45 PM",
+      "7:00 PM",
+      "10:10 PM"
+    ],
+    "colors": [
+      "#9D174D",
+      "#EC4899"
+    ],
+    "image": "assets/images/MOV-008.png"
+  }
+]

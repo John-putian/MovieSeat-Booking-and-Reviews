@@ -1,0 +1,35 @@
+{
+  "name": "MovieSeat",
+  "short_name": "MovieSeat",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#0D0B1B",
+  "theme_color": "#8B5CF6",
+  "description": "Cinema tickets, seats and snacks with MovieSeat.",
+  "orientation": "portrait-primary",
+  "prefer_related_applications": false,
+  "icons": [
+    {
+      "src": "icons/Icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/Icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/Icon-maskable-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "icons/Icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

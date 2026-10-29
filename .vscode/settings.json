@@ -1,0 +1,31 @@
+﻿{
+  "files.exclude": {
+    "**/.dart_tool": true,
+    "**/.tools": true,
+    "**/.widget_preview": true,
+    "**/build": true,
+    "**/__pycache__": true,
+    "**/*.pyc": true,
+    "**/*.iml": true,
+    "**/.flutter-plugins-dependencies": true,
+    ".metadata": true,
+    "api/*.sqlite3*": true
+  },
+  "search.exclude": {
+    "**/.dart_tool/**": true,
+    "**/.tools/**": true,
+    "**/build/**": true,
+    "**/.widget_preview/**": true,
+    "**/__pycache__/**": true,
+    "**/*.sqlite3*": true
+  },
+  "files.watcherExclude": {
+    "**/.tools/**": true,
+    "**/build/**": true,
+    "**/__pycache__/**": true
+  },
+  "explorer.fileNesting.enabled": true,
+  "explorer.fileNesting.patterns": {
+    "pubspec.yaml": "pubspec.lock"
+  }
+}
